@@ -10,6 +10,8 @@ YouTube (the world-famous video sharing website) maintains a list of the top tre
 ## Data Sources
 In this project, we use the Trending YouTube Video Statistics for U.S. dataset from Kaggle. The dataset can be found at https://www.kaggle.com/datasnaek/youtube-new.
 
+Since the dataset exceeds 25MB and is zipped, one should extract the file before running the code.
+
 ## Contents
 
 By analysing the data, we want to address the following questions:
